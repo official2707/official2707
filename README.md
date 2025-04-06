@@ -51,10 +51,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=official2707&show_icons=true&locale=en" alt="official2707" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=official2707&" alt="official2707" /></p>
-
----
-
-### 🐍 GitHub Contribution Snake
-
-```md
-![Snake animation](https://github.com/official2707/official2707/blob/output/github-contribution-grid-snake.svg)
